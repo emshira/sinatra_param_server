@@ -1,1 +1,1 @@
-web: ruby hwsinatrajob.rb -p $PORT
+web: ruby server.rb -p $PORT
